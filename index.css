@@ -1,0 +1,133 @@
+body {
+    background: black;
+    font-family: 'Blinker', sans-serif;
+}
+.fondogris {
+    background: lightgray;
+    width: 100%;
+    height: 3000px;
+    margin: auto;
+
+}
+.franjablanca{
+    width: 95%;
+    height: 3%;
+    padding: 20px;
+    background: white;
+    margin: auto;
+}
+.texto1{
+    font-size: 30px;
+    padding-left: 20%;
+
+}
+
+.igpost{
+    background: white;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    margin-top: 40px;
+}
+.header-container{
+    display: flex;
+
+}
+.header-left{
+    height: 50px;
+    padding: 20px;
+    line-height: 1px;
+    position: relative;
+    display:flex;
+    width:70%;
+
+}
+
+
+.texto{
+    padding-bottom:30px;
+    padding-left: 5px;
+
+
+}
+.ellipsis{
+text-align: right;
+padding-right: 20px;
+width: 30%;
+padding-top: 25px;
+
+}
+
+.middle-container{
+    padding left: 50px;
+    display: flex;
+    line-height: 10px;
+    margin-left: 15px;
+
+
+}
+
+.bookmark {
+    padding-left: 300px;
+
+}
+
+.comment {
+    padding: 6px;
+    padding-bottom: 50px;
+}
+.igpost{
+    background: white;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+    margin-top: 40px;
+}
+.header-container{
+    display: flex;
+
+}
+.header-left{
+    height: 50px;
+    padding: 20px;
+    line-height: 1px;
+    position: relative;
+    display:flex;
+    width:70%;
+
+}
+
+
+.texto{
+    padding-bottom:30px;
+    padding-left: 5px;
+
+
+}
+.ellipsis{
+text-align: right;
+padding-right: 20px;
+width: 30%;
+padding-top: 25px;
+
+}
+
+.middle-container{
+    padding left: 50px;
+    display: flex;
+    line-height: 10px;
+    margin-left: 15px;
+
+
+}
+
+.bookmark {
+    padding-left: 300px;
+
+}
+
+.comment {
+    padding: 6px;
+    padding-bottom: 50px;
+}
+////////
